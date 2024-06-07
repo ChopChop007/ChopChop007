@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChopChop007
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL, POWER BI and EXCEL
-- 💞️ I’m looking to collaborate on Data Analyst to help me develop quality data knowledge 
+- 👀 Data Analysis is my LIFE
+- 🌱 I’m versed with SQL, POWER BI and EXCEL
+- 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me homolecove@yahoo.co.uk
 
 <!---
