@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ChopChop007
+- 👋 Hi, I'm Oluwafemi
+- Micorsoft Certified PowerBI Data Analyst
 - 👀 Data Analysis is my LIFE
 - 🌱 I’m versed with SQL, POWER BI and EXCEL
 - 💞️ I’m looking to collaborate on Data Analysis projects
-- 📫 How to reach me homolecove@yahoo.co.uk
+- 📫 How to reach me mromole379@gmail.com
 
 <!---
 ChopChop007/ChopChop007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
