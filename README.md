@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Oluwafemi
-- Micorsoft Certified PowerBI Data Analyst
+- 👀  Microsoft Certified PowerBI Data Analyst
 - 👀 Data Analysis is my LIFE
 - 🌱 I’m versed with SQL, POWER BI and EXCEL
 - 💞️ I’m looking to collaborate on Data Analysis projects
